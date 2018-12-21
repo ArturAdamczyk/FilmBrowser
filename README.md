@@ -1,8 +1,6 @@
 # film_browser
 
-A film browser Flutter application.
-
+A film browser Flutter application. Enables searching for films by fetching data from online API.
+// In progress ...
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
